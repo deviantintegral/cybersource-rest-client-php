@@ -1,18 +1,8 @@
 {
-    "name": "cybersource/rest-client-php",
+    "name": "centarro/cybersource-rest-client-php",
     "version": "0.0.44",
-    "description": "Client SDK for CyberSource REST APIs",
-    "keywords": [
-        "cybersource", "payments", "ecommerce", "merchant", "merchants", "authorize", "visa", "payment", "payment-gateway", "payment-integration", "payment-module", "payment-processing", "payment-service", "payment-methods"
-    ],
-    "homepage": "https://github.com/CyberSource",
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Visa developer",
-            "homepage": "https://github.com/CyberSource/cybersource-rest-client-php"
-        }
-    ],
+    "description": "CyberSource PHP REST API client with dependency updates for Drupal compatibility (until fixed upstream).",
+    "homepage": "https://github.com/CyberSource/cybersource-rest-client-php",
     "require": {
         "php": ">=8.0.0",
         "ext-curl": "*",
